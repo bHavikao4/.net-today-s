@@ -44,7 +44,7 @@ class ToDoListApp
                     break;
                 default:
                     Console.WriteLine("//INVALID INPUT//  /n PRESS ENTER TO CONTINUE...");
-                    Console.ReadLine();''
+                    Console.ReadLine();
                     break;
             }
         }
